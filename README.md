@@ -66,8 +66,8 @@
 		Virtual environment (venv or conda)
 	
  ### 📥 Clone the Repository
-	git clone https://github.com/your-username/healthcare-diagnosis-system.git
-	cd healthcare-diagnosis-system
+	git clone https://github.com/dgx781/Generative-and-Agentic-AI/tree/DataScience-Ocean/health_diagnosis_recommender.git
+	cd healthcare-diagnosis-recommender
 
  ### 🔹 Create a Virtual Environment & Activate it
 	For Windows
