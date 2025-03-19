@@ -66,8 +66,7 @@
 		Virtual environment (venv or conda)
 	
  ### 📥 Clone the Repository
-	git clone https://github.com/dgx781/Generative-and-Agentic-AI/tree/DataScience-Ocean/health_diagnosis_recommender.git
-
+	git clone https://github.com/dgx781/Generative-and-Agentic-AI.git
 
  ### 📥 Move to the health_diagnosis_recommender folder
  	cd health_diagnosis_recommender/
